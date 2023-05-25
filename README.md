@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Omar Hamed</h1>
-- 🔭 I’m currently working on **iot projects**
+- 🔭 I’m currently working on **ioT projects**
 
-- 💬 Ask me about MATLAB , Simulink, Arduino, Flutter, Firebase
+- 💬 Ask me about **MATLAB , Simulink, Arduino, Flutter, Firebase**
 
-- ⚡ a word to the wise If it is done repeatedly you better automate it
+- ⚡ a word to the wise **If it is done repeatedly you better automate it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
