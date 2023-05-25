@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omar Hamed</h1>
-- 🔭 I’m currently working on **ioT projects**
+
+- ⚡ a word to the wise **If it is done repeatedly you better automate it**
 
 - 💬 Ask me about **MATLAB , Simulink, Arduino, Flutter, Firebase**
 
