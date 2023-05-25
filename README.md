@@ -5,7 +5,6 @@
 
 - ⚡ a word to the wise **If it is done repeatedly you better automate it**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
