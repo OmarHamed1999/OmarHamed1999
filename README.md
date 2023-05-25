@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Hamed</h1>
-- 🔭 I’m currently working on **iot projects**
+- 🔭 I’m currently working on  ioT projects
 
 - 💬 Ask me about **MATLAB , Simulink, Arduino, Flutter, Firebase**
 
