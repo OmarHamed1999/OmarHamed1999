@@ -4,7 +4,7 @@
 
 - 💬 Ask me about **MATLAB , Simulink, Arduino, Flutter, Firebase**
 
-- ⚡ a word to the wise **If it is done repeatedly you better automate it**
+- ⚡ A word to the wise **If it is done repeatedly you better automate it**
 
 <p align="left">
 </p>
